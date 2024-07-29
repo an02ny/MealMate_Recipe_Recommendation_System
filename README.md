@@ -1,6 +1,6 @@
 # MealMate - Recipe Recommendation System
 
-MealMate offers users a streamlined approach to discover recipes tailored to their preferences. By entering desired ingredients, users are presented with a curated list of recipe names, along with their corresponding total preparation times. Additionally, users have the option to specify any allergic ingredients, ensuring that the recommended recipes align with their dietary needs and restrictions.
+MealMate offers users a streamlined approach to discover 700+ recipes tailored to their preferences. By entering desired ingredients, users are presented with a curated list of recipe names, along with their corresponding total preparation times. Additionally, users have the option to specify any allergic ingredients, ensuring that the recommended recipes align with their dietary needs and restrictions.
 
 ## Functionalities
 
@@ -48,4 +48,4 @@ MealMate leverages several functionalities to enhance recipe discovery:
 3. Specify any allergic ingredients in the provided field.
 4. View the curated list of recipes along with their total preparation times.
 
-
+The dataset used is from Kaggle:https://www.kaggle.com/datasets/kanishk307/6000-indian-food-recipes-dataset
