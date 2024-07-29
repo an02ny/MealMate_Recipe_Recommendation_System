@@ -1,6 +1,6 @@
 # MealMate - Recipe Recommendation System
 
-MealMate offers users a streamlined approach to discover 700+ recipes tailored to their preferences. By entering desired ingredients, users are presented with a curated list of recipe names, along with their corresponding total preparation times. Additionally, users have the option to specify any allergic ingredients, ensuring that the recommended recipes align with their dietary needs and restrictions.
+MealMate offers users a streamlined approach to discover 700+ recipes using **Inverted Index Tables for Boolean Information Retrieval** that are tailored to their preferances. By entering desired ingredients, users are presented with a curated list of recipe names, along with their corresponding total preparation times. Additionally, users can also **filter** out any allergic ingredients, ensuring that the recommended recipes align with their dietary needs and restrictions.
 
 ## Functionalities
 
