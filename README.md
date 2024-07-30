@@ -17,11 +17,7 @@ MealMate leverages several functionalities to enhance recipe discovery:
 - **Frontend**: Streamlit for building an interactive web application
 - **Search Optimization**: Inverted Index and TF-IDF
 
-## Features
 
-- **Interactive User Interface**: Streamlit provides a user-friendly interface with radio buttons for selecting options, tables to display datasets in CSV format, and a search bar for users to input their recipe queries.
-- **Real-time Filtering**: Recipes are filtered in real-time based on user-specified ingredients and allergens.
-- **Efficient Search**: Inverted index and TF-IDF ensure fast and relevant recipe retrieval.
 
 ## Installation
 
