@@ -23,8 +23,8 @@ MealMate leverages several functionalities to enhance recipe discovery:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/an02ny/mealmate.git
-    cd mealmate
+    git clone https://github.com/an02ny/MealMate_Recipe_Recommendation_System
+    cd MealMate_Recipe_Recommendation_System
     ```
 
 2. Install the required packages:
